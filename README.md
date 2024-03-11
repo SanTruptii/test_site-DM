@@ -1,4 +1,4 @@
-#Fansite created with HTML and CSS
+# Fansite created with HTML and CSS
 
 A basic BTS fansite showcasing frontend web development 
 
